@@ -36,13 +36,21 @@ band pass filter depends on the order of high pass and low pass sections.
 
 ## CIRCUIT DIAGRAM: 
 ## LOW_PASS
+![WhatsApp Image 2025-11-27 at 23 51 20_188e7799](https://github.com/user-attachments/assets/d6492f6b-15d5-49ba-aed7-736a5e626e17)
 ## HIGH-PASS
+![WhatsApp Image 2025-11-27 at 23 51 21_ccc150e8](https://github.com/user-attachments/assets/7c63fc02-93c8-467a-a5d6-1f2adc988b28)
 ## BAND-PASS
+![WhatsApp Image 2025-11-27 at 23 51 19_14440e79](https://github.com/user-attachments/assets/95fbbefd-78de-4de9-95ae-a4797c478c2f)
+
 
 ## MODEL GRAPH:
 ## LOW_PASS
+![WhatsApp Image 2025-11-27 at 23 50 19_30bdf02f](https://github.com/user-attachments/assets/49f347da-10ff-45bf-a7a0-16c63cb6f3b2)
 ## HIGH-PASS
+![WhatsApp Image 2025-11-27 at 23 50 20_3fb32aa8](https://github.com/user-attachments/assets/81cb432f-6e76-484d-8649-585301278cf9)
 ## BAND-PASS
+![WhatsApp Image 2025-11-27 at 23 51 20_05d2549f](https://github.com/user-attachments/assets/f4fb22ba-87fa-4a0d-8aa0-de4bf4dbb7b6)
+
 
 ## PROCEDURE - (LPF & HPF): 
 1. Connect the circuit as shown in the circuit diagram. 
@@ -85,19 +93,20 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
 ## LOW_PASS
+![WhatsApp Image 2025-11-27 at 23 51 21_d7b72506](https://github.com/user-attachments/assets/16dcac94-8136-4a0a-9b03-51eafaa82975)
 ## HIGH-PASS
+![WhatsApp Image 2025-11-27 at 23 51 21_a5b58d22](https://github.com/user-attachments/assets/6d1b9987-7f96-4ca3-8b13-da784f920c73)
 ## BAND-PASS
-## CALCULATIONS:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+![WhatsApp Image 2025-11-27 at 23 50 35_36620767](https://github.com/user-attachments/assets/f91c5cd6-ca6e-48fc-bcc3-ea6fcd0f6f4a)
+
 ## GRAPH:
 ## LOW_PASS
+![WhatsApp Image 2025-11-27 at 23 51 20_239ffaa3](https://github.com/user-attachments/assets/e7049f5f-96f5-4ebf-ae59-1f988f204aaf)
 ## HIGH-PASS
+![WhatsApp Image 2025-11-27 at 23 51 22_ce379c47](https://github.com/user-attachments/assets/365ea86b-2bac-487b-9ff5-eed01b9e7ff7)
 ## BAND-PASS
+![WhatsApp Image 2025-11-27 at 23 51 22_b447d0b7](https://github.com/user-attachments/assets/975ca42a-1db0-49ec-a5de-362435f2ab25)
+
  ## RESULTS:
 Thus an Active Low pass, High pass and Band Pass Filters are designed and 
 tested using op-amp IC 741. 
