@@ -24,10 +24,11 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 ### SCHMITT TRIGGER:
-
+<img width="1266" height="881" alt="517799953-47c92c06-d7ce-4284-8478-8eff49f6bf85" src="https://github.com/user-attachments/assets/5e985f0c-5a9d-4e5b-b8cb-f91e8cd88462" />
 
 ## OUTPUT GRAPH:
 ### SCHMITT TRIGGER:
+<img width="1263" height="555" alt="517799958-830e1001-8d1f-44ff-a797-188568752219" src="https://github.com/user-attachments/assets/3e61e682-35d1-4e52-b886-f7df0d23217d" />
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and Schmitt trigger circuit is simulated.
